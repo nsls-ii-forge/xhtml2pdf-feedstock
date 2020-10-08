@@ -5,11 +5,9 @@ Home: http://github.com/xhtml2pdf/xhtml2pdf
 
 Package license: Apache-2.0
 
-Feedstock license: BSD 3-Clause
+Feedstock license: [BSD-3-Clause](https://github.com/nsls-ii-forge/xhtml2pdf-feedstock/blob/master/LICENSE.txt)
 
 Summary: PDF generator using HTML and CSS
-
-
 
 Current build status
 ====================
