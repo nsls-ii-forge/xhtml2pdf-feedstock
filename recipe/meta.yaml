@@ -24,9 +24,11 @@ requirements:
     - pip
   run:
     - python
+    - arabic_reshaper
     - html5lib >=1.0
     - pillow
     - pypdf2
+    - python-bidi
     - reportlab >=3.0
     - six
 
